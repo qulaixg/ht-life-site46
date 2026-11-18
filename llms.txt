@@ -1,0 +1,13 @@
+# 红桃视频
+
+> 红桃视频是记录生活每一刻精彩的品牌展示站点，提供AI剪辑、直播面板与发布前检查等创作工具。
+
+官网：https://www.ht-life.cloud/
+
+## 页面
+
+- [红桃视频 - 记录生活每一刻精彩](https://hongtao.ht-life.cloud/): 红桃视频是记录生活每一刻精彩的品牌展示站点，提供AI剪辑、直播面板与发布前检查等创作工具。
+- [关于我们：记录生活每一刻精彩 · 红桃视频](https://hongtao.ht-life.cloud/about/): 了解红桃视频的定位、设计取向与对创作者的承诺。
+- [产品：记录生活每一刻精彩 · 红桃视频](https://hongtao.ht-life.cloud/products/): 红桃视频提供AI剪辑、直播面板、发布前检查与收益中心等创作工具。
+- [常见问题：记录生活每一刻精彩 · 红桃视频](https://hongtao.ht-life.cloud/faq/): 红桃视频常见问题：红桃视频的AI剪辑能做什么？发布前检查不通过还能发布吗？开播需要什么条件？如何举报违规内容？对处理结果有异议怎么办？账号可以注销吗？
+- [联系我们：记录生活每一刻精彩 · 红桃视频](https://hongtao.ht-life.cloud/contact/): 联系红桃视频：hello@ht-life.cloud · report@ht-life.cloud · feedback@ht-life.cloud。
